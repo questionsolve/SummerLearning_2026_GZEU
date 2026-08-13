@@ -1,3 +1,6 @@
+
+//洛谷  P1339 [USACO09OCT] Heat Wave G
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;

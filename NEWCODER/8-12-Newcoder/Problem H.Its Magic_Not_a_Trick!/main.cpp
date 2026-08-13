@@ -1,4 +1,6 @@
+
 //2026牛客暑期多校训练营8 H--It's Magic, Not a Trick!
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;

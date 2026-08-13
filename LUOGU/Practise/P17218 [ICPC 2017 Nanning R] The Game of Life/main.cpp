@@ -1,4 +1,6 @@
+
 // 洛谷 P17218 [ICPC 2017 Nanning R] The Game of Life
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
